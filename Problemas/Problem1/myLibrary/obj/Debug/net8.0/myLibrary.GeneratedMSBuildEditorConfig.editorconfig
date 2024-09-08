@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myLibrary
-build_property.ProjectDir = c:\Users\ejcan\Desktop\U\II_SEM_2024\Datos1\ExtraClase2\Problem1\myLibrary\
+build_property.ProjectDir = C:\Users\ejcan\Desktop\U\FSC\Proyecto 2\ExtraClase-2_Datos1\Problemas\Problem1\myLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

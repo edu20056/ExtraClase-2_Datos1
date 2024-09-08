@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\myLibrary\\myLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\myLibrary\\myLibrary.csproj",
       "projectName": "myLibrary",
-      "projectPath": "C:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\myLibrary\\myLibrary.csproj",
+      "projectPath": "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\myLibrary\\myLibrary.csproj",
       "packagesPath": "C:\\Users\\ejcan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\myLibrary\\obj\\",
+      "outputPath": "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\myLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

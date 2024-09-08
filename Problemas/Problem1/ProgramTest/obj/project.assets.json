@@ -1019,11 +1019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\ProgramTest\\ProgramTest.csproj",
+      "projectUniqueName": "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\ProgramTest\\ProgramTest.csproj",
       "projectName": "ProgramTest",
-      "projectPath": "c:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\ProgramTest\\ProgramTest.csproj",
+      "projectPath": "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\ProgramTest\\ProgramTest.csproj",
       "packagesPath": "C:\\Users\\ejcan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\ProgramTest\\obj\\",
+      "outputPath": "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\ProgramTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1045,8 +1045,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\myLibrary\\myLibrary.csproj": {
-              "projectPath": "c:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\myLibrary\\myLibrary.csproj"
+            "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\myLibrary\\myLibrary.csproj": {
+              "projectPath": "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\myLibrary\\myLibrary.csproj"
             }
           }
         }

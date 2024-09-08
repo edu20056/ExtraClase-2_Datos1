@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QgFWIQ6/qMg=",
+  "dgSpecHash": "ABz9VxXmlzw=",
   "success": true,
-  "projectFilePath": "c:\\Users\\ejcan\\Desktop\\U\\II_SEM_2024\\Datos1\\ExtraClase2\\Problem1\\ProgramTest\\ProgramTest.csproj",
+  "projectFilePath": "C:\\Users\\ejcan\\Desktop\\U\\FSC\\Proyecto 2\\ExtraClase-2_Datos1\\Problemas\\Problem1\\ProgramTest\\ProgramTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ejcan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ejcan\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
